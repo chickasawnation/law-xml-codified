@@ -12,14 +12,14 @@
       <citation type="res" url="./adopted/PR43-006.pdf">PR43-006</citation>
     </citations>
   </meta>
-  <codify:replace path="2|10|A|2-1001.3">
+  <codify:replace path="2|10|A|2-1001.3" codified:doc="Chickasaw Nation Code" codified:path="§2-1001.3">
     <section>
       <prefix>Section</prefix>
       <num>2-1001.3</num>
       <heading>PAYMENT.</heading>
       <para>
         <num>A.</num>
-        <text>Each non-employee member of an official board, commission or agency of the Chickasaw Nation to which the provisions of this Article shall apply as contained and defined in <cite path="2|10|A|2-1001.1">Section 2-1001.1</cite>, shall be eligible for payment in the form of per diem and travel expenses as are normally allowed for regular, full-time employees of the Chickasaw Nation.</text>
+        <text>Each non-employee member of an official board, commission or agency of the Chickasaw Nation to which the provisions of this Article shall apply as contained and defined in <cite path="2|10|A|2-1001.1" doc="PR43-006">Section 2-1001.1</cite>, shall be eligible for payment in the form of per diem and travel expenses as are normally allowed for regular, full-time employees of the Chickasaw Nation.</text>
       </para>
       <para>
         <num>B.</num>
