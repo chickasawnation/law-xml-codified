@@ -12,7 +12,7 @@
       <citation type="res" url="./adopted/PR43-005.pdf">PR43-005</citation>
     </citations>
   </meta>
-  <codify:replace path="2|4|A|2-401.9|B.">
+  <codify:replace path="2|4|A|2-401.9|B." codified:doc="Chickasaw Nation Code" codified:path="§2-401.9|B.">
     <para>
       <num>B.</num>
       <heading>Death:</heading>

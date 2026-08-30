@@ -12,7 +12,7 @@
       <citation type="res" url="./adopted/PR43-004.pdf">PR43-004</citation>
     </citations>
   </meta>
-  <codify:replace path="5|1|A|attachments|APPENDIX-A-RULES-OF-PROFESSIONAL-CONDUCT-FOR-ATTORNEYS|DEFINITIONS|A.">
+  <codify:replace path="5|1|A|attachments|APPENDIX-A-RULES-OF-PROFESSIONAL-CONDUCT-FOR-ATTORNEYS|DEFINITIONS|A." codified:doc="Chickasaw Nation Code" codified:path="5|1|A|attachments|APPENDIX-A-RULES-OF-PROFESSIONAL-CONDUCT-FOR-ATTORNEYS|DEFINITIONS|A.">
     <para>
       <num>A.</num>
       <text>In the construction of this Act, the following rules of construction and definitions shall be observed unless inconsistent with the manifest intent of the Legislature or the context clearly requires otherwise:</text>
@@ -66,13 +66,13 @@
       </para>
     </para>
   </codify:replace>
-  <codify:insert path="5|1|A|attachments|APPENDIX-A-RULES-OF-PROFESSIONAL-CONDUCT-FOR-ATTORNEYS|RULES|The-following-Rules-of-Professional-Conduct-regard-general-provisions:|1.5">
+  <codify:insert path="5|1|A|attachments|APPENDIX-A-RULES-OF-PROFESSIONAL-CONDUCT-FOR-ATTORNEYS|RULES|The-following-Rules-of-Professional-Conduct-regard-general-provisions:|1.5" codified:doc="Chickasaw Nation Code" codified:path="5|1|A|attachments|APPENDIX-A-RULES-OF-PROFESSIONAL-CONDUCT-FOR-ATTORNEYS|RULES|The-following-Rules-of-Professional-Conduct-regard-general-provisions:|1.5|F.">
     <para>
       <num>F.</num>
       <text>The salaries, benefits, and other forms of employment compensation, of lawyers who are employees of the Chickasaw Nation including but not limited to the Office of Tribal Justice Administration and the Office of the Chickasaw Nation Public Defender, shall not constitute fees for purposes of this Appendix A and Appendix B.</text>
     </para>
   </codify:insert>
-  <codify:replace path="5|1|A|attachments|APPENDIX-A-RULES-OF-PROFESSIONAL-CONDUCT-FOR-ATTORNEYS|RULES|The-following-Rules-of-Professional-Conduct-regard-general-provisions:|1.10">
+  <codify:replace path="5|1|A|attachments|APPENDIX-A-RULES-OF-PROFESSIONAL-CONDUCT-FOR-ATTORNEYS|RULES|The-following-Rules-of-Professional-Conduct-regard-general-provisions:|1.10" codified:doc="Chickasaw Nation Code" codified:path="5|1|A|attachments|APPENDIX-A-RULES-OF-PROFESSIONAL-CONDUCT-FOR-ATTORNEYS|RULES|The-following-Rules-of-Professional-Conduct-regard-general-provisions:|1.10">
     <section>
       <prefix>Rule</prefix>
       <num>1.10</num>
