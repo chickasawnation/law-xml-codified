@@ -12,19 +12,19 @@
       <citation type="res" url="./adopted/PR43-003.pdf">PR43-003</citation>
     </citations>
   </meta>
-  <codify:insert path="10|1|10-101.4" after="16.">
+  <codify:insert path="10|1|10-101.4" after="16." codified:doc="Chickasaw Nation Code" codified:path="§10-101.4|17.">
     <para>
       <num>17.</num>
       <text>"Development Budget" shall mean a budget devised by the Governor for projects intended to develop tribal real property or develop Housing Projects as defined herein.</text>
     </para>
   </codify:insert>
-  <codify:insert path="10|1|10-101.4" after="17.">
+  <codify:insert path="10|1|10-101.4" after="17." codified:doc="Chickasaw Nation Code" codified:path="§10-101.4|18.">
     <para>
       <num>18.</num>
       <text>"Housing" or "Housing Project(s)" shall mean the construction or renovation of residential dwelling places, such as apartments, duplexes, townhouses or other single or multifamily homes and shall include all necessary items including but not limited to surveys, environmental assessments, architecture, design, and any and all ancillary items related to the development of residential Housing including but not limited to utilities, infrastructure, parking, lighting, fencing, landscaping, parks, and security.</text>
     </para>
   </codify:insert>
-  <codify:replace path="10|2|10-201.4">
+  <codify:replace path="10|2|10-201.4" codified:doc="Chickasaw Nation Code" codified:path="§10-201.4">
     <section>
       <prefix>Section</prefix>
       <num>10-201.4</num>
@@ -40,7 +40,7 @@
       </para>
       <para>
         <num>3.</num>
-        <text>When the Legislature approves the Development Budget for Housing Projects that are not located on tribal real property the requirements of <cite path="10|2|10-201.1">Section 10-201.1</cite> (A) shall be deemed met, and authorization shall be granted for the performance of activities and authorization for expending Funds to complete Housing Projects identified in the Development Budget. Completion of a Housing Project may not be limited to a single fiscal year; approval of a Housing Project includes approval until such time as the project is completed.</text>
+        <text>When the Legislature approves the Development Budget for Housing Projects that are not located on tribal real property the requirements of <cite path="10|2|10-201.1" doc="PR43-003">Section 10-201.1</cite> (A) shall be deemed met, and authorization shall be granted for the performance of activities and authorization for expending Funds to complete Housing Projects identified in the Development Budget. Completion of a Housing Project may not be limited to a single fiscal year; approval of a Housing Project includes approval until such time as the project is completed.</text>
       </para>
       <para>
         <num>4.</num>
