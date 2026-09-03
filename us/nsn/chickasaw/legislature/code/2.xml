@@ -579,7 +579,7 @@
         <para>
           <num>B.</num>
           <heading>Death:</heading>
-          <text>Should an elected or retired official die, and at the time of his death he is carrying dependents on his health and dental insurance, the Nation shall pay to carry those dependents on his health and dental insurance for a period of six (6) months after his death, to give his dependents time to make arrangements for their own health and dental insurance.</text>
+          <text>Should an elected or retired official die, and at the time of his death he is carrying dependents on his health and dental insurance, the Nation shall pay to carry the spouse until their death or remarriage. Any other dependents on the plan will be covered in accordance with the insurance plan guidelines.</text>
         </para>
         <para>
           <num>C.</num>
@@ -613,6 +613,7 @@
         <annotations>
           <annotation type="History" effective="2008-07-18" doc="PR25-010">PR25-010, 7/18/08</annotation>
           <annotation type="History" effective="2008-12-19" doc="PR26-001">PR26-001, 12/19/08</annotation>
+          <annotation app="2026-04-20" doc="PR43-005" eff="2026-04-20" path="" target-path="2|4|A|2-401.9|B." type="History"/>
         </annotations>
       </section>
     </container>
@@ -2627,22 +2628,23 @@
       <section>
         <prefix>Section</prefix>
         <num>2-1001.3</num>
-        <heading>COMPENSATION.</heading>
+        <heading>PAYMENT.</heading>
         <para>
           <num>A.</num>
-          <text>Each member of an official board, commission or agency of the Chickasaw Nation to which the provisions of this Article shall apply as contained and defined in <cite path="2|10|A|2-1001.1">Section 2-1001.1</cite>, shall be eligible for compensation in the form of per diem and travel expenses as are normally allowed for regular, full-time employees of the Chickasaw Nation.</text>
+          <text>Each non-employee member of an official board, commission or agency of the Chickasaw Nation to which the provisions of this Article shall apply as contained and defined in <cite path="2|10|A|2-1001.1" doc="PR43-006">Section 2-1001.1</cite>, shall be eligible for payment in the form of per diem and travel expenses as are normally allowed for regular, full-time employees of the Chickasaw Nation.</text>
         </para>
         <para>
           <num>B.</num>
-          <text>However, any time that such board, commission or agency shall meet to conduct its regular or special meetings, all members shall be entitled to travel expenses and per diem at the rate normally allowed for travel or per diem in the area in which the meeting is conducted, regardless of the amount of time required for such meeting.</text>
+          <text>Any time that such board, commission or agency shall meet to conduct its regular or special meetings, all attending members shall be entitled to reimbursement for expenses in accordance with Executive Department travel policies.</text>
         </para>
         <para>
           <num>C.</num>
-          <text>Members of boards, commissions and agencies which are, as a course of their normal duties and/or functions, involved in meetings or tasks which last longer than four (4) consecutive hours, allowing for normal breaks for meals or other purposes, are entitled to compensation for their time at the rate of fifteen dollars ($15) per hour, in addition to any compensation which might be received in the form of per diem and travel expenses. The administrative staff assigned to each such board, agency or commission shall be responsible for completion of paperwork for such compensation in accordance with the normal procedures used for regular, full-time tribal employees. Should no such staff be assigned to such board, agency or commission, the Office of the Governor shall provide such services for those affected members.</text>
+          <text>Members of boards, commissions and agencies which are, as a course of their normal duties and/or functions, involved in meetings or tasks are entitled to an additional payment in the form of a stipend for their time, which shall be equivalent to an hourly rate as approved by the Governor, in addition to any payment which might be received in the form of per diem and travel expenses. The administrative staff assigned to each such board, agency or commission shall be responsible for completion of paperwork for such payment in accordance with the normal procedures used for regular, full-time tribal employees. Should no such staff be assigned to such board, agency or commission, the Office of the Governor shall provide such services for those affected members.</text>
         </para>
         <annotations>
           <annotation type="History" effective="1996-09-20" doc="PR13-018">PR13-18, 9/20/96</annotation>
           <annotation type="History" effective="2010-07-16" doc="PR27-004">PR27-004, 7/16/10</annotation>
+          <annotation app="2026-04-20" doc="PR43-006" eff="2026-04-20" path="" target-path="2|10|A|2-1001.3" type="History"/>
         </annotations>
       </section>
     </container>
