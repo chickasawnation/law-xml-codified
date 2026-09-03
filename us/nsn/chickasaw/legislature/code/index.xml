@@ -3,8 +3,8 @@
   <heading>Chickasaw Nation Code</heading>
   <meta>
     <effective>2026-01-01</effective>
-    <recency through="2026-04-20">
-      <doc id="PR43-006" type="resolution"/>
+    <recency through="2026-05-15">
+      <doc id="PR43-007" type="resolution"/>
     </recency>
   </meta>
   <xi:include href="./1.xml"/>
