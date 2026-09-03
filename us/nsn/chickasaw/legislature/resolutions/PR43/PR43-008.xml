@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:ns0="https://open.law/schemas/cache" id="PR43-008" codify:doc="Chickasaw Nation Code">
+  <num>PR43-008</num>
+  <heading>Amendments to Title 5, Chapter 1, of the Chickasaw Nation Code (Chickasaw Bar Association and Licensed Legal Interns)</heading>
+  <meta>
+    <stub/>
+    <effective>2026-07-17</effective>
+    <history>
+      <adopted>2026-07-17</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/PR43-008.pdf">PR43-008</citation>
+    </citations>
+  </meta>
+  <codify:replace path="5|1|A|5-101.5" codified:doc="Chickasaw Nation Code" codified:path="§5-101.5">
+    <section>
+      <prefix>Section</prefix>
+      <num>5-101.5</num>
+      <heading>CHICKASAW BAR ASSOCIATION.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any person shall be authorized to practice as an attorney and counselor at law in any Court of the Chickasaw Nation who has been admitted to the Bar of the Chickasaw Nation. The Bar of the Chickasaw Nation shall be open to any person who is an attorney at law and is admitted to practice before any state or federal court within the United States of America and is a member in good standing of the bar of such court.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>All persons authorized under this Section shall become members of the Chickasaw Bar Association and their names shall be added to the roll of attorneys for the Chickasaw Supreme Court upon paying an annual fifty dollar ($50) membership fee, and such other additional fees as the Supreme Court may assess, to the Clerk of the Court and taking and signing the following oath before the Clerk of the Court:</text>
+        <text>"You do solemnly swear that you will support, protect and defend <cite doc="Chickasaw Nation Constitution">the Constitution</cite> of the United States and <cite doc="Chickasaw Nation Constitution">the Constitution of the Chickasaw Nation</cite>; that you will do no falsehood or consent that any be done in court, and if you know of any you will give knowledge thereof to the Judges of the Court, or some one of them, that it may be reformed; you will not wittingly, willingly or knowingly promote, sue or procure to be sued, any false or unlawful suit, or give aid or consent to the same; you will delay no man for lucre or malice, but will act in the office of attorney in this Court according to your best learning and	discretion, with all good fidelity as well to the Court as to your client, so help you God."</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>All fees collected from Chickasaw Bar Association members shall be held by the Supreme Court and managed and expended for the membership of the Chickasaw Bar Association.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:insert path="5|1|A" after="5-101.6" codified:doc="Chickasaw Nation Code" codified:path="§5-101.7">
+    <section>
+      <prefix>Section</prefix>
+      <num>5-101.7</num>
+      <heading>LICENSED LEGAL INTERN.</heading>
+      <text>A "Licensed Legal Intern" is an individual who is a qualified law school student or law school graduate, who holds a limited license granted by the Oklahoma Supreme Court to practice law, and who operates under a supervising attorney. Any person who is a duly Licensed Legal Intern with the State of Oklahoma shall be authorized to practice law in any Court of the Chickasaw Nation, provided that the Licensed Legal Intern abides by the limitations, rules, and regulations established by the Oklahoma Supreme Court and Oklahoma Bar Association for a Licensed Legal Intern and the rules set forth herein. In order to appear before the Chickasaw Nation Courts, a Licensed Legal Intern must comply with the following:</text>
+      <para>
+        <num>1.</num>
+        <text>Abide by the Oklahoma Supreme Court and Oklahoma Bar Association Rules and Regulations for licensed legal interns;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Work under the supervision of an attorney who is a member of the Chickasaw Bar Association and duly qualified and authorized to serve as a supervising attorney under the rules and regulations of the Oklahoma Supreme Court and Oklahoma Bar Association for licensed legal interns; and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>File a copy of the following documents with the Chickasaw Nation Supreme Court Clerk prior to any court appearance:</text>
+        <para>
+          <num>a.</num>
+          <text>A true and correct copy of the Licensed Legal Intern's limited license which was duly and lawfully issued by the Oklahoma Supreme Court;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>A true and correct copy of the affidavit submitted to the Oklahoma Bar Association by the supervising attorney on behalf of the Licensed Legal Intern; and</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>A true and correct copy of the "Welcome Letter" from the Oklahoma Bar Association to the supervising attorney, acknowledging that the attorney has been approved to serve as a supervising attorney for the Licensed Legal Intern.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Prior to appearing before the Chickasaw Nation Courts, the Licensed Legal Intern must take and sign the oath set forth in <cite doc="Chickasaw Nation Code" path="5|1|A|5-101.5|B.">Section 5-101.5(B)</cite> before a Justice of the Supreme Court or a Judge of the District Court. Any person authorized as a Licensed Legal Intern under this Section is not considered a member of the Chickasaw Bar Association but must abide by the Chickasaw Nation's Rules of Professional Conduct for Attorneys set out in <cite doc="Chickasaw Nation Code" path="5|1|A|attachments|APPENDIX-A-RULES-OF-PROFESSIONAL-CONDUCT-FOR-ATTORNEYS">Title 5, Appendix A</cite>.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>When a Licensed Legal Intern's limited license is terminated by the State of Oklahoma, that person is no longer eligible to appear before the Chickasaw Nation Courts as a Licensed Legal Intern. It shall be the responsibility of the Licensed Legal Intern to inform the Supreme Court Clerk, in writing, when his or her limited license to practice as a licensed legal intern is terminated by the State of Oklahoma.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>The Supreme Court Clerk shall notify the District Court Judges of the admission or termination of a Licensed Legal Intern requesting to appear before the Chickasaw Nation Courts.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>The Chickasaw Nation Supreme Court or inferior courts are hereby authorized to adopt additional rules and regulations regarding the practice of licensed legal interns before the Chickasaw Nation Courts.</text>
+      </para>
+    </section>
+  </codify:insert>
+</document>
