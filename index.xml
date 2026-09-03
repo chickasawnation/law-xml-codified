@@ -15,11 +15,11 @@
     <history-start>2026-01-01</history-start>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="chickasawnation/law-xml" commit="058c11791c3a17e043de95d7cc03ea618965f700"/>
+        <repository name="chickasawnation/law-xml" commit="3159423173f17c3dc61f818e321fc6fd04f0a89b"/>
       </repositories>
       <platform version="2.22.2" reproducible="true"/>
-      <build-date>2026-08-30</build-date>
-      <codified-date>2026-05-15</codified-date>
+      <build-date>2026-09-03</build-date>
+      <codified-date>2026-07-17</codified-date>
       <publication>publication/2026-08-30</publication>
     </build>
   </meta>
